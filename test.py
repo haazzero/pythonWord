@@ -10,5 +10,5 @@ word.Visible = True
 # 새로운 워드 문서 열기
 # doc = word.Documents.Add()
 
-# # 절대 경로를 이용하여 기존 워드 파일 열기
+# 절대 경로를 이용하여 기존 워드 파일 열기
 doc = word.Documents.Open(r'C:\Users\hy\OneDrive\eng\Short Essay_hy.docx')
